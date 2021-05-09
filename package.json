@@ -9,7 +9,7 @@
     "babel-polyfill": "^6.26.0",
     "favicons-webpack-plugin": "^0.0.9",
     "file-loader": "^4.0.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-horizontal-scrolling-menu": "^0.6.12",
